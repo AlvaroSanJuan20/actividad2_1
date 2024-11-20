@@ -2,8 +2,9 @@
 # Bienvenido a mi página web
 `hecho por Alvaro San Juan Rodrigo`
 
-## Página web para los apartados de IAW
+Aquí encontraras los apartados de la actividad 2.1, los links proporcionados son las páginas web creadas con Jekyll con el markdown de myblog.
 
+En el caso de querer ver cada repositorio de los apartados referirse al documento adjuntado en el ejercicio.
 ## Actividad 2.1
 
 ### Myblog
